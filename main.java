@@ -10,6 +10,7 @@ public class main {
         System.out.println("4. Euro to Rupee");
         System.out.println("5. Euro to Dollar");
         System.out.println("6. Dollar to Euro");
+        System.out.print("Enter the number: ");
         double a = input.nextDouble();
 
         if (a == 1) {
