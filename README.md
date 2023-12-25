@@ -16,24 +16,27 @@
 
 - First open the terminal or command prompt
 - Just, Clone this repository -
+
   ```
   $ git clone https://github.com/Kanishk-Chaudhary/Currency-Converter
   ```
 
 - Now go to cloned directory and run `main.java` -
+
   ```
   $ cd Currency-Converter
   $ java main.java
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***Currency Converter*** is installed.
+- On first launch, It'll install the dependencies and that's it. **_Currency Converter_** is installed.
 
 ##
 
 <details>
   <summary><h3>Dependencies</h3></summary>
 
-<b>Currency Converter</b> requires following programs to run properly - 
+<b>Currency Converter</b> requires following programs to run properly -
+
 - `git`
 - `java`
 
