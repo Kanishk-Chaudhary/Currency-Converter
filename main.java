@@ -48,6 +48,8 @@ public class main {
             double c = (b * 0.91);
             System.out.println("The given currency in euro is: " + c);
 
+        }else{
+            System.out.println("Wrong Input!");
         }
             
         }
