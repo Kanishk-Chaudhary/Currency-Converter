@@ -50,7 +50,7 @@ public class main {
             System.out.println("The given currency in euro is: " + c);
 
         } else {
-            System.out.println("Wrong Input");
+            System.out.println("Wrong Input!");
         }
 
     }
