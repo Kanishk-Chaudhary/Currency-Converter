@@ -18,40 +18,39 @@ public class main {
             double c = (b * 0.012);
             System.out.println("The given currency in dollar is: " + c);
 
-        }else  if (a == 2) {
+        } else if (a == 2) {
             System.out.print("Enter the currency in dollar: ");
             double b = input.nextDouble();
             double c = (b * 83.33);
             System.out.println("The given currency in rupee is: " + c);
 
-        }else  if (a == 3) {
+        } else if (a == 3) {
             System.out.print("Enter the currency in rupee: ");
             double b = input.nextDouble();
             double c = (b * 0.011);
             System.out.println("The given currency in euro is: " + c);
 
-        }else  if (a == 4) {
+        } else if (a == 4) {
             System.out.print("Enter the currency in euro: ");
             double b = input.nextDouble();
             double c = (b * 91.57);
             System.out.println("The given currency in rupee is: " + c);
 
-        }else  if (a == 5) {
+        } else if (a == 5) {
             System.out.print("Enter the currency in euro: ");
             double b = input.nextDouble();
             double c = (b * 1.10);
             System.out.println("The given currency in dollar is: " + c);
 
-        }else  if (a == 6) {
+        } else if (a == 6) {
             System.out.print("Enter the currency in dollar: ");
             double b = input.nextDouble();
             double c = (b * 0.91);
             System.out.println("The given currency in euro is: " + c);
 
-        }else{
+        } else {
             System.out.println("Wrong Input!");
         }
-            
-        }
+
     }
 }
